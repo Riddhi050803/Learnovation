@@ -1,0 +1,141 @@
+.nav{
+	height: 70px;
+	border: 1px;
+	background-color: #dde3f2;
+	text-align: right;
+	padding: 16px;
+}
+.nav-text{
+	color: black;
+	font-family: 'Times New Roman', serif;
+    font-size: 23px;
+    text-align: right;
+
+}
+.s1{
+	background-image: url("https://wallpaperaccess.com/full/6547781.jpg"); width:100%; height: 500px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;
+
+}
+.logsin{
+	 font-size: 20px;
+}
+
+.vartech{
+	width: 100%;
+	height:250px;
+}
+.captions{
+	color: #09a3ba;
+	text-align: right;
+
+}
+.ad1{width: 90px;
+	background-color: #3bc8dd;
+	height: 350px;
+	padding: 10px;
+	margin : 10px;
+	border-radius: 15px;
+	box-shadow: 10px 5px #c8ced3;
+
+}
+.ad2{width:90px;
+	background-color:#3967de ;
+	height: 350px;
+	padding: 10px;
+	margin : 10px;
+	border-radius: 15px;
+	box-shadow: 10px 5px #c8ced3;
+}
+.ad{text-align: center;
+	padding-top: 150px;
+
+}
+.footer1{
+	padding-top: 30px;
+
+}
+
+.footer{
+	padding-top: 50px;
+	color: white;
+}
+.footlink{
+	text-align: center;
+
+}
+.Socials{
+	width: 25px;
+	height: 25px;
+	background-color: white;
+align-items: right;
+
+}
+/* page technologies*/
+#metav{
+	background-image: url("C:/Users/rusta/OneDrive/Documents/portfolio/metav3.jpg");
+	width:100%; height: 300px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;
+
+}
+.Overview{
+	padding-top: 40px;
+}
+#arti{
+	background-image: url("C:/Users/rusta/OneDrive/Documents/portfolio/ai1.jpg");
+	width:100%; height: 300px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;}
+#arti1{background-image: url("https://img.freepik.com/free-photo/man-enjoying-vr-headset_53876-101874.jpg?size=626&ext=jpg&ga=GA1.2.1927894172.1686625115&semt=ais");
+	width:100%; height: 300px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#arti2{background-image: url('https://img.freepik.com/free-photo/hand-pointing-currency-blockchain-technology-background_53876-102966.jpg?size=626&ext=jpg&ga=GA1.1.1927894172.1686625115&semt=ais');
+	width:100%; height: 300px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#arti3{background-image: url('https://img.freepik.com/premium-photo/abstract-futuristic-central-processing-unit-microchip-inside-computer-motherboard-3d-rendering-modern-quantum-computing-processor-cpu-hardware-engineering-technology-concept_44651-614.jpg?w=2000');
+	width:100%; height: 300px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#arti4{background-image: url('https://img.freepik.com/premium-vector/padlock-with-keyhole-personal-data-security-illustrates-cyber-data-information-privacy-idea-blue-color-abstract-hi-speed-internet-technology_43778-440.jpg');
+	width:100%; height: 300px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#arti5{background-image: url("https://images.ctfassets.net/q2hzfkp3j57e/756145cca1cc75f4936a24f194d0e7282aeab33b/d59f7ec51f1efd68d8b896751baa7efa/artboard_4.jpg?w=1600&h=1200&fm=jpg&q=82");
+	width:100%; height: 300px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#arti6{background-image: url('https://img.freepik.com/free-photo/digital-presentation-related-performance-business-using-graph_53876-98525.jpg');
+	width:100%; height: 300px;
+	padding-top: 120px;
+ text-align: center;
+  color: white;
+background-repeat: no-repeat;
+background-size: cover;
+}
